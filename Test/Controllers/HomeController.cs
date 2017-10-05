@@ -13,5 +13,10 @@ namespace Test.Controllers
         {
             return View();
         }
+        public ActionResult Show()
+        {
+            return View();
+        }
+
     }
 }
